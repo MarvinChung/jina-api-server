@@ -1,0 +1,8 @@
+jtype: SBert
+py_modules:
+  - executor.py
+metas:
+  name: SBert
+  description: SBert embeds text into 384-dim vectors using all-MiniLM-L6-v2
+  url: https://github.com/MarvinChung/sBert
+  keywords: ['embedding']
